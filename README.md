@@ -5,7 +5,7 @@ The core of the application handles time tracking by logging daily check-ins and
 
 As you log your shifts, the dashboard calculates your progress—displaying it as a dynamic percentage that updates directly based on your input data. It actively compares your total hours logged against your final OJT goal, and uses that information to calculate your estimated finish date based on your current pace.
 
-<img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/372b2727-b328-482f-8709-eed682c92cce" />
+<img width="1865" height="998" alt="image" src="https://github.com/user-attachments/assets/372b2727-b328-482f-8709-eed682c92cce" />
 
 
 <img width="1865" height="998" alt="image" src="https://github.com/user-attachments/assets/421ad469-8700-4ef4-ba57-5d0f0d32b553" />
