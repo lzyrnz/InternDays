@@ -8,5 +8,4 @@ As you log your shifts, the dashboard calculates your progress—displaying it a
 
 
 <img width="1865" height="998" alt="image" src="https://github.com/user-attachments/assets/421ad469-8700-4ef4-ba57-5d0f0d32b553" />
-<img width="1862" height="988" alt="image" src="https://github.com/user-attachments/assets/218bf05b-796b-41fc-b7ff-4f22adc5288e" />
 <img width="1873" height="999" alt="image" src="https://github.com/user-attachments/assets/21bff398-f963-413f-af69-f7e83027e9ca" />
